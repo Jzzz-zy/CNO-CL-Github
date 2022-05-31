@@ -1,0 +1,10 @@
+The code is for the paper 
+“Optimal Chiller Loading Based on Collaborative Neurodynamic Optimization”，
+accepted by IEEE Transactions on Industrial Informatics. 
+
+Authors of the paper: Zhongying Chen, Jun Wang, and Qing-Long Han
+
+---------------------------------------------------------------------------
+
+Feel free to contact Zhongying CHEN (zy.chen@my.cityu.edu.hk) 
+if you have any questions.
